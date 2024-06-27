@@ -1,7 +1,7 @@
 <?php
     $hosname = "localhost";
     $usuario = "root";
-    $senha = "";
+    $senha = "root";
     $bancodeDados = "db_instagram";
 
     $mysqli = new mysqli ($hosname, $usuario, $senha, $bancodeDados);
