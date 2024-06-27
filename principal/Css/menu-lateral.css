@@ -1,0 +1,37 @@
+@charset "UTF-8";
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #fbfbfb;
+	font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+#container-lateral{
+	width: 224px;
+	height: 605px;
+	border-right: 2px solid #eeeeee;
+	border-bottom: 2px solid #eeeeee;
+}
+.input-lateral{
+	color: black;
+	text-decoration:none;
+}
+.lista{
+	display: flex;
+	flex-wrap:wrap;
+	flex-direction: left;
+}
+.logo-lateral{
+	width: 100px;
+	height: 30px;
+	margin-top: 15%;
+	margin-left: 10%;
+	margin-bottom: 17%;
+}
+.logo-casa{
+	width: 24px;
+	height: 24px;
+	margin-left: -20px;
+}
+
+
+
