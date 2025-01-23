@@ -1,4 +1,4 @@
-# Instagram Clone - Recriado em PHP com MySQL MariaDB
+# Instagram Clone - Recriado em PHP com MySQL 
 # Bem-vindo ao Instagram Clone, um projeto desenvolvido em PHP com MySQL MariaDB que recria as principais funcionalidades do Instagram. Este projeto serve como um exemplo prático de como construir uma aplicação web complexa, #focando em práticas modernas de desenvolvimento e uso eficiente de tecnologias open-source.
 
 ## 🚀 Guia de Instalação do Projeto
